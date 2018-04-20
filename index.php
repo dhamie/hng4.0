@@ -21,7 +21,7 @@
         background-attachment: fixed;
         background-size: cover;
         font-family: "be";
-  }
+  } 
 
 
   #cover{
